@@ -1,0 +1,11 @@
+rbh = load_list "mmseqs_rgc_rbh.txt"
+fs = load_list "mmseqs_rgc_FS.txt"
+kc = load_list "mmseqs_rgc_krisCut.txt"
+e-10 = load_list "mmseqs_rgc_1waye10.txt"
+e-100 = load_list "mmseqs_rgc_1waye100.txt"
+e-200 = load_list "mmseqs_rgc_1waye200.txt"
+e-50 = load_list "mmseqs_rgc_1waye50.txt"
+e-20 = load_list "mmseqs_rgc_1waye20.txt"
+vennall = venndiagram [rbh, fs, kc, e-10, e-20, e-50, e-100, e-200]
+vennmost = venndiagram [rbh, fs, e-20, e-50, e-100, e-200]
+result = vennmost

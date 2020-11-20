@@ -1,0 +1,674 @@
+	bg-ids	bg-at-olap-e-50	bg-arc-olap-e-50	bg-aux-olap-e-50	bg-cre-olap-e-50	bg-scer-olap-e-50	bg-ecol-olap-e-50	bg-mel-olap-e-50	bg-ath-olap-e-50
+Cz05g32080.t1	x								
+Cz05g28030.t1	x								
+Cz02g35020.t1	x								
+Cz08g07210.t1	x								
+Cz05g36130.t1	x	x		x	x				x
+Cz11g23180.t1	x								
+Cz08g11010.t1	x								
+Cz07g07110.t1	x								
+Cz05g21080.t1	x								
+UNPLg00492.t1	x				x				
+Cz12g25180.t1	x								
+Cz08g03270.t1	x	x	x	x	x				x
+Cz04g12110.t1	x								
+Cz01g24040.t1	x								
+Cz04g36140.t1	x		x		x				
+Cz13g04250.t1	x								
+Cz04g26060.t1	x								
+Cz01g30040.t1	x								
+Cz08g13060.t1	x								
+Cz06g13290.t1	x			x	x				
+Cz04g30160.t1	x								
+Cz03g21250.t1	x								
+Cz17g13190.t1	x								
+Cz01g29110.t1	x								
+Cz02g41100.t1	x								
+Cz16g12010.t1	x								
+Cz01g05160.t1	x			x	x	x	x	x	x
+Cz06g33190.t1	x								
+Cz04g21260.t1	x								
+Cz15g08030.t1	x			x	x				
+Cz01g24010.t1	x				x				
+Cz07g08150.t1	x	x		x	x	x			x
+Cz16g10170.t1	x			x	x				
+Cz13g00220.t1	x								
+Cz07g08060.t1	x				x				
+Cz11g24170.t1	x								
+Cz13g03240.t1	x	x		x	x				x
+UNPLg00401.t1	x								
+Cz08g17120.t1	x								
+Cz07g07280.t1	x								
+Cz02g01200.t1	x								
+Cz04g19270.t1	x			x	x				x
+Cz04g35200.t1	x				x				x
+Cz01g11180.t1	x								
+Cz04g09210.t1	x		x	x	x				
+Cz05g01180.t1	x				x		x		
+Cz02g16260.t1	x								
+Cz02g02080.t1	x								
+Cz04g13010.t1	x								
+Cz02g13250.t1	x				x				
+Cz04g33130.t1	x								
+Cz12g08200.t1	x								
+Cz14g17180.t1	x								
+Cz03g35060.t1	x	x		x	x				x
+Cz07g28100.t1	x								
+Cz02g18180.t1	x			x	x				
+UNPLg00445.t1	x	x			x				x
+Cz04g31070.t1	x								
+Cz07g18040.t1	x			x	x				x
+Cz06g30220.t1	x								
+Cz18g00170.t1	x								
+Cz01g37100.t1	x								
+Cz08g04060.t1	x								
+Cz07g12210.t1	x								
+Cz05g10300.t1	x								
+Cz03g06230.t1	x	x		x	x				x
+Cz13g13130.t1	x								
+Cz08g22220.t1	x								
+Cz04g34020.t1	x			x	x	x			x
+Cz03g21130.t1	x				x				x
+UNPLg00024.t1	x	x			x				x
+Cz14g21080.t1	x								
+Cz13g00190.t1	x								
+Cz11g12230.t1	x			x	x				x
+Cz03g16220.t1	x								
+Cz13g20040.t1	x								
+Cz04g10080.t1	x			x	x	x			x
+Cz05g34220.t1	x								
+Cz10g28090.t1	x								
+Cz11g04220.t1	x								
+Cz08g09120.t1	x			x	x				x
+Cz05g09090.t1	x	x		x	x	x			x
+Cz05g24150.t1	x								
+Cz08g12270.t1	x		x		x				
+Cz01g08110.t1	x								
+Cz01g10020.t1	x								
+Cz06g37190.t1	x								
+Cz07g01170.t1	x								
+Cz12g08090.t1	x			x	x	x			x
+Cz03g27110.t1	x								
+Cz06g21320.t1	x								
+UNPLg00673.t1	x								
+Cz01g32280.t1	x								
+Cz12g01050.t1	x								
+Cz06g17230.t1	x				x				x
+Cz07g30200.t1	x								
+Cz16g07120.t1	x			x	x				
+UNPLg00663.t1	x								
+Cz02g11180.t1	x								
+Cz01g28030.t1	x								
+Cz05g11100.t1	x								
+Cz14g23320.t1	x	x		x	x	x			x
+Cz13g17110.t1	x								
+Cz05g30060.t1	x	x		x	x	x			x
+Cz03g16130.t1	x								
+Cz10g20280.t1	x			x	x	x			x
+Cz01g11210.t1	x								
+Cz11g24180.t1	x		x		x				
+Cz16g21020.t1	x								
+Cz09g30060.t1	x			x	x				
+Cz08g28070.t1	x	x		x	x				x
+Cz01g35130.t1	x								
+Cz07g29010.t1	x								
+Cz06g01100.t1	x								
+UNPLg00344.t1	x								
+UNPLg00303.t1	x								
+Cz03g14220.t1	x			x	x	x			x
+Cz04g31010.t1	x				x				x
+Cz01g22130.t1	x			x	x				
+Cz05g28220.t1	x								
+Cz08g12110.t1	x								
+Cz19g09090.t1	x								
+Cz02g08090.t1	x								
+Cz09g32070.t1	x	x		x	x				x
+Cz01g46130.t1	x								
+Cz01g05200.t1	x		x	x	x				
+Cz18g04130.t1	x	x		x	x	x	x		x
+Cz17g02010.t1	x								
+Cz01g08080.t1	x	x		x	x	x			x
+Cz09g19020.t1	x				x				
+Cz16g01130.t1	x								
+Cz04g13260.t1	x								
+Cz10g28100.t1	x								
+Cz06g05220.t1	x								
+Cz14g10050.t1	x								
+Cz04g24170.t1	x								
+Cz17g13100.t1	x		x	x	x				
+Cz11g10130.t1	x								
+Cz15g12110.t1	x				x				
+Cz07g00160.t1	x			x	x	x			x
+Cz06g28160.t1	x	x		x	x				x
+Cz15g07260.t1	x								
+Cz02g39300.t1	x				x				
+Cz16g05120.t1	x								
+Cz01g07230.t1	x				x				x
+Cz01g42030.t1	x			x	x	x			x
+Cz02g17080.t1	x								
+Cz12g08110.t1	x				x				x
+Cz04g01120.t1	x								
+Cz06g26110.t1	x								
+Cz05g26170.t1	x			x	x				x
+Cz06g16260.t1	x	x		x	x				x
+Cz06g15210.t1	x								
+Cz04g10030.t1	x								
+Cz09g13210.t1	x								
+Cz12g11010.t1	x				x				
+Cz13g04150.t1	x								
+Cz14g23190.t1	x	x	x	x	x		x		x
+Cz14g10110.t1	x								
+Cz19g05230.t1	x								
+Cz03g31210.t1	x								
+Cz02g24230.t1	x			x	x	x			x
+Cz07g22130.t1	x								
+Cz09g00350.t1	x								
+Cz05g31220.t1	x								
+Cz14g23040.t1	x								
+Cz08g04130.t1	x			x	x				x
+Cz07g11080.t1	x								
+Cz06g33110.t1	x								
+Cz16g13130.t1	x								
+Cz03g15290.t1	x								
+UNPLg00275.t1	x								
+Cz05g32100.t1	x								
+UNPLg00705.t1	x								
+Cz16g14110.t1	x			x	x				x
+Cz04g04250.t1	x	x			x				x
+Cz06g16060.t1	x								
+Cz01g46280.t1	x				x				
+Cz12g24200.t1	x	x		x	x	x			x
+Cz07g15190.t1	x								
+Cz05g04170.t1	x								
+Cz07g14090.t1	x				x				
+Cz03g31060.t1	x			x	x				
+Cz04g11250.t1	x				x				
+Cz09g24270.t1	x								
+UNPLg00282.t1	x								
+Cz02g38290.t1	x				x				
+Cz09g12170.t1	x								
+Cz09g24080.t1	x				x				
+Cz01g35190.t1	x			x	x	x			x
+Cz05g02010.t1	x								
+Cz06g12240.t1	x								
+Cz06g31120.t1	x								
+Cz19g01190.t1	x								
+Cz11g19030.t1	x								
+Cz16g01030.t1	x								
+Cz08g01190.t1	x								
+Cz02g00290.t1	x								
+Cz06g22060.t1	x								
+Cz14g10070.t1	x								
+Cz04g03070.t1	x	x	x	x	x	x	x		x
+Cz17g17130.t1	x								
+Cz05g30080.t1	x								
+Cz05g16190.t1	x								
+Cz05g20250.t1	x								
+Cz11g10100.t1	x			x	x				x
+Cz12g21040.t1	x								
+Cz02g30190.t1	x								
+UNPLg00080.t1	x	x		x	x				x
+Cz14g18130.t1	x			x	x				x
+Cz01g24030.t1	x								
+Cz02g12180.t1	x								
+Cz08g11160.t1	x	x		x	x				x
+Cz04g12210.t1	x			x	x				
+Cz12g27090.t1	x			x	x	x	x		x
+Cz11g26110.t1	x			x	x				x
+Cz09g06150.t1	x								
+Cz05g11170.t1	x								
+Cz04g30100.t1	x								
+Cz15g23070.t1	x	x			x				x
+Cz04g33080.t1	x			x	x				x
+Cz11g04250.t1	x								
+Cz10g09260.t1	x			x	x	x			x
+Cz07g15040.t1	x	x		x	x				x
+Cz05g01240.t1	x								
+Cz08g08110.t1	x								
+Cz17g14150.t1	x			x	x				x
+Cz07g02110.t1	x	x		x	x				x
+Cz09g22160.t1	x								
+Cz04g29200.t1	x								
+Cz05g09280.t1	x								
+Cz07g03160.t1	x								
+Cz02g37280.t1	x								
+Cz08g01110.t1	x								
+Cz13g11170.t1	x								
+Cz09g27120.t1	x								
+Cz08g29250.t1	x								
+Cz13g06010.t1	x			x	x				
+Cz03g04020.t1	x								
+Cz02g02120.t1	x								
+Cz01g01180.t1	x								
+Cz01g32230.t1	x								
+Cz14g18280.t1	x				x				
+Cz02g32020.t1	x								
+Cz01g05240.t1	x								
+Cz19g02190.t1	x								
+Cz01g44190.t1	x								
+Cz09g01150.t1	x								
+Cz16g11010.t1	x								
+Cz04g13180.t1	x								
+Cz07g12010.t1	x								
+Cz09g28080.t1	x				x				
+Cz02g15090.t1	x								
+Cz03g01030.t1	x								
+Cz14g19040.t1	x								
+Cz06g36290.t1	x			x	x				
+Cz05g06200.t1	x				x				x
+Cz02g36040.t1	x			x	x		x		
+Cz09g01010.t1	x								
+Cz19g04040.t1	x								
+Cz05g32090.t1	x								
+Cz03g29240.t1	x	x		x	x	x			x
+Cz01g31220.t1	x								
+Cz10g10230.t1	x								
+Cz06g31130.t1	x								
+Cz04g26200.t1	x								
+Cz03g24250.t1	x								
+Cz04g40020.t1	x				x				x
+Cz12g26150.t1	x	x		x	x		x	x	x
+UNPLg00299.t1	x								
+Cz06g31230.t1	x								
+Cz16g19040.t1	x	x		x	x				x
+Cz09g11030.t1	x				x				
+Cz07g32070.t1	x			x	x	x			x
+Cz03g03170.t1	x								
+Cz04g21210.t1	x								
+Cz02g08020.t1	x								
+Cz06g17210.t1	x								
+Cz02g14030.t1	x								
+Cz12g02260.t1	x								
+Cz06g27080.t1	x								
+Cz18g04060.t1	x								
+Cz13g08170.t1	x								
+Cz09g21140.t1	x				x				
+Cz07g20040.t1	x								
+UNPLg00023.t1	x								
+Cz02g36170.t1	x								x
+Cz14g19080.t1	x								
+Cz12g02250.t1	x								
+Cz06g33100.t1	x								
+Cz02g37020.t1	x								
+Cz02g00180.t1	x								
+Cz17g16010.t1	x								
+Cz11g24090.t1	x								
+Cz09g10050.t1	x								
+Cz05g00190.t1	x			x	x				x
+Cz09g10060.t1	x								
+Cz06g00200.t1	x								
+Cz06g31140.t1	x								
+Cz10g26110.t1	x				x				
+Cz05g36030.t1	x	x	x	x	x				x
+Cz04g07220.t1	x			x	x	x			x
+Cz02g07300.t1	x								
+Cz11g17200.t1	x								
+UNPLg00281.t1	x								
+Cz08g25130.t1	x								
+Cz02g14200.t1	x								
+Cz03g08220.t1	x				x				
+Cz09g07060.t1	x	x			x				x
+Cz04g01180.t1	x								
+Cz08g27160.t1	x	x		x	x	x			x
+Cz07g01160.t1	x								
+Cz12g09070.t1	x								
+Cz16g07130.t1	x			x	x				x
+Cz05g26120.t1	x								
+UNPLg00662.t1	x								
+Cz08g17080.t1	x			x	x	x	x		x
+Cz13g13150.t1	x								
+Cz15g01010.t1	x								
+Cz04g38180.t1	x								
+Cz05g34170.t1	x								
+Cz07g28050.t1	x								
+Cz02g27170.t1	x				x				x
+Cz05g17010.t1	x								
+Cz03g29040.t1	x								
+Cz09g18310.t1	x	x		x	x				x
+Cz01g41040.t1	x								
+Cz13g00070.t1	x								
+Cz15g17110.t1	x	x			x				x
+Cz07g29030.t1	x								
+Cz19g06290.t1	x								
+Cz05g10190.t1	x	x	x		x				
+Cz07g05040.t1	x								
+Cz05g04080.t1	x								
+Cz09g17300.t1	x								
+Cz08g15300.t1	x								
+Cz06g12190.t1	x			x	x				
+UNPLg00190.t1	x				x				
+Cz02g03170.t1	x		x		x		x		x
+Cz03g02250.t1	x				x				
+Cz14g05140.t1	x								
+Cz19g03010.t1	x				x				
+Cz09g06200.t1	x								
+Cz06g30110.t1	x				x				
+Cz12g10190.t1	x								
+Cz09g10070.t1	x								
+Cz10g08020.t1	x								
+Cz16g07190.t1	x								x
+Cz14g25060.t1	x			x	x	x	x		x
+Cz11g10110.t1	x								
+Cz08g32160.t1	x				x				
+Cz12g28210.t1	x								
+Cz05g29140.t1	x	x			x				x
+Cz02g18040.t1	x		x		x				
+Cz09g19030.t1	x								
+Cz12g24020.t1	x								
+Cz15g09220.t1	x								
+Cz10g15090.t1	x								
+Cz16g22020.t1	x								
+Cz02g04130.t1	x								
+Cz13g15210.t1	x								
+Cz11g26100.t1	x								
+Cz12g03030.t1	x								
+Cz10g03100.t1	x								
+Cz03g09130.t1	x								
+Cz19g07080.t1	x								
+Cz12g12270.t1	x								
+Cz01g12150.t1	x								
+Cz01g23030.t1	x	x			x				x
+Cz07g17220.t1	x								
+Cz07g28110.t1	x								
+Cz04g00130.t1	x								
+Cz02g17090.t1	x			x	x				x
+Cz09g08090.t1	x								
+Cz01g30160.t1	x								
+Cz12g12080.t1	x								
+Cz09g25160.t1	x			x	x				x
+Cz12g15240.t1	x								
+Cz12g08100.t1	x				x				x
+Cz04g06030.t1	x			x	x				x
+Cz13g00060.t1	x								
+Cz08g09150.t1	x								
+Cz12g10160.t1	x								
+Cz13g14050.t1	x								
+Cz14g24160.t1	x								
+Cz15g10010.t1	x								
+Cz01g19210.t1	x								
+Cz09g17160.t1	x				x				x
+Cz03g21010.t1	x								
+Cz09g03180.t1	x			x	x	x	x		x
+Cz07g05030.t1	x								
+Cz03g05280.t1	x								
+Cz01g15080.t1	x								
+Cz02g14020.t1	x								
+Cz01g00140.t1	x								
+UNPLg00290.t1	x								
+Cz04g36060.t1	x								
+Cz10g11210.t1	x								
+Cz02g41120.t1	x								
+Cz05g00070.t1	x								
+Cz06g22210.t1	x	x		x			x		x
+Cz11g20280.t1	x			x	x				
+Cz16g03180.t1	x								
+Cz01g01190.t1	x								
+Cz08g19210.t1	x								
+Cz07g21050.t1	x			x	x				x
+Cz01g28050.t1	x				x				
+Cz02g13240.t1	x				x				
+Cz12g16070.t1	x			x	x				
+Cz05g24080.t1	x			x	x				x
+Cz09g22110.t1	x								
+Cz12g14130.t1	x								
+Cz14g05040.t1	x								
+Cz05g09100.t1	x				x				
+Cz12g20020.t1	x				x				
+Cz06g22160.t1	x				x				
+UNPLg00129.t1	x				x				
+Cz17g10010.t1	x								
+Cz16g01010.t1	x			x	x				x
+Cz01g31110.t1	x	x			x				x
+Cz11g03180.t1	x								
+Cz16g12070.t1	x				x				
+Cz01g38010.t1	x								
+Cz06g20100.t1	x				x	x			x
+Cz11g11070.t1	x	x		x	x	x			x
+Cz18g04010.t1	x				x				
+Cz11g20020.t1	x								
+Cz08g08170.t1	x								
+Cz08g28050.t1	x			x	x				x
+Cz01g38280.t1	x								
+Cz08g11020.t1	x				x				
+Cz12g15050.t1	x								
+Cz01g30070.t1	x				x				
+Cz16g05180.t1	x	x	x		x	x			x
+Cz04g08100.t1	x								
+UNPLg00207.t1	x			x	x				x
+Cz10g24050.t1	x								
+Cz17g15140.t1	x								
+Cz18g10020.t1	x								
+Cz11g10120.t1	x								
+Cz06g05030.t1	x								
+Cz05g04180.t1	x			x	x				
+Cz11g03280.t1	x								
+Cz08g17090.t1	x								
+Cz13g08015.t1	x								
+Cz13g01160.t1	x								
+Cz06g31280.t1	x								
+Cz03g21140.t1	x								
+Cz05g32280.t1	x				x				
+Cz02g33030.t1	x			x	x				
+Cz15g09060.t1	x	x		x	x				x
+Cz03g27010.t1	x			x	x				x
+Cz04g24300.t1	x								
+Cz08g28130.t1	x								
+Cz08g28140.t1	x								
+Cz08g04120.t1	x			x	x				x
+Cz04g31190.t1	x				x				
+Cz01g05275.t1	x								
+Cz04g04130.t1	x	x			x				x
+Cz10g28160.t1	x								
+Cz02g33240.t1	x								
+Cz03g12070.t1	x								
+Cz10g24040.t1	x								
+Cz03g22100.t1	x								
+Cz14g11270.t1	x								x
+Cz14g18250.t1	x								
+Cz01g35200.t1	x			x	x	x			x
+UNPLg00262.t1	x								
+UNPLg00003.t1	x				x				
+Cz10g08080.t1	x								
+Cz03g31170.t1	x								
+Cz03g22010.t1	x			x	x	x			x
+Cz05g36020.t1	x								
+Cz05g15270.t1	x								
+Cz06g34100.t1	x				x				
+Cz02g00170.t1	x	x		x	x				x
+Cz08g08190.t1	x								
+Cz10g14320.t1	x				x				
+Cz07g07100.t1	x			x	x	x			x
+Cz15g02090.t1	x								
+Cz05g04190.t1	x								
+Cz04g00220.t1	x								
+UNPLg00286.t1	x								
+Cz10g10250.t1	x				x				
+UNPLg00177.t1	x	x		x	x	x	x		x
+Cz07g04220.t1	x			x	x		x		x
+Cz13g01110.t1	x								x
+Cz14g13070.t1	x			x	x				x
+Cz15g07110.t1	x								
+Cz06g26010.t1	x								
+Cz01g46020.t1	x			x	x	x			x
+Cz14g09020.t1	x								
+Cz10g19120.t1	x								
+Cz03g26240.t1	x	x		x	x				x
+Cz04g01170.t1	x	x		x	x	x			x
+Cz03g40190.t1	x								
+Cz11g16120.t1	x								
+Cz13g05080.t1	x								
+Cz15g08240.t1	x								
+Cz12g15010.t1	x								
+Cz16g14150.t1	x	x		x	x				x
+Cz14g12150.t1	x								
+Cz06g13190.t1	x			x	x				
+Cz08g30210.t1	x				x				x
+Cz05g04150.t1	x	x		x	x	x			x
+Cz07g19040.t1	x								
+Cz07g31160.t1	x				x				
+Cz11g03190.t1	x				x				
+Cz16g13060.t1	x								
+Cz08g19010.t1	x								
+Cz09g11020.t1	x								
+UNPLg00189.t1	x				x				
+Cz06g19080.t1	x	x		x	x				x
+Cz15g10080.t1	x								
+Cz12g08070.t1	x								
+Cz11g09340.t1	x								
+Cz07g33160.t1	x								
+Cz03g14080.t1	x			x					
+Cz09g11140.t1	x								
+Cz03g10030.t1	x				x				
+Cz14g24190.t1	x								
+Cz09g17290.t1	x								x
+Cz14g14210.t1	x			x	x				x
+Cz04g18040.t1	x								
+Cz10g02090.t1	x								
+Cz12g13090.t1	x								
+Cz01g08100.t1	x								
+Cz09g26180.t1	x								
+Cz09g11150.t1	x								
+UNPLg00298.t1	x								
+Cz10g07010.t1	x			x	x				
+Cz15g16010.t1	x								
+Cz14g09130.t1	x								
+Cz11g26160.t1	x			x					x
+Cz07g22170.t1	x			x	x	x			
+Cz15g20030.t1	x								
+Cz08g08240.t1	x			x	x	x			x
+Cz15g23040.t1	x				x				x
+Cz06g11080.t1	x								
+UNPLg00294.t1	x								
+Cz16g01100.t1	x				x				
+Cz16g04250.t1	x								
+Cz11g19120.t1	x								
+Cz05g26010.t1	x			x					
+Cz05g25180.t1	x			x	x		x		
+Cz11g23070.t1	x	x		x	x		x		x
+Cz15g01140.t1	x								
+Cz10g10070.t1	x	x		x	x		x	x	x
+Cz08g23100.t1	x								
+Cz13g20030.t1	x			x					
+Cz05g22150.t1	x								
+Cz12g15040.t1	x								
+Cz10g29030.t1	x	x		x	x		x	x	x
+Cz07g02100.t1	x	x		x	x				x
+Cz09g29180.t1	x								
+Cz15g07120.t1	x								
+Cz10g10160.t1	x	x		x	x				x
+Cz05g18080.t1	x								
+Cz08g25190.t1	x				x				
+Cz02g14010.t1	x								
+Cz16g05240.t1	x								
+Cz07g01040.t1	x								
+Cz11g05190.t1	x								
+Cz14g23270.t1	x								
+UNPLg00747.t1	x								
+Cz10g09190.t1	x	x		x	x				x
+Cz08g20170.t1	x								
+Cz11g11020.t1	x								
+Cz15g21300.t1	x								
+Cz02g24270.t1	x	x		x	x				x
+UNPLg00285.t1	x								
+Cz19g06170.t1	x								
+Cz16g10020.t1	x			x	x				x
+Cz14g18070.t1	x								
+Cz11g20130.t1	x								
+Cz06g15200.t1	x								
+Cz08g27150.t1	x			x					x
+Cz18g11090.t1	x			x					x
+Cz06g17220.t1	x								
+UNPLg00188.t1	x								
+Cz11g15130.t1	x			x	x	x			x
+Cz03g35210.t1	x			x	x	x			x
+Cz03g22200.t1	x	x		x	x		x		x
+Cz12g03020.t1	x								
+Cz04g17300.t1	x		x		x				
+Cz07g08070.t1	x								
+Cz07g08180.t1	x			x	x				
+Cz16g01110.t1	x								
+Cz19g05110.t1	x								
+Cz15g17090.t1	x								
+Cz10g11200.t1	x			x	x				x
+Cz12g06020.t1	x	x		x	x	x	x		x
+Cz02g37030.t1	x								
+Cz08g09130.t1	x			x	x				x
+Cz08g29120.t1	x								
+Cz05g32290.t1	x								
+Cz06g33080.t1	x								
+Cz13g14150.t1	x								
+Cz03g02090.t1	x	x		x	x		x		x
+Cz16g05130.t1	x								
+Cz16g01140.t1	x								
+Cz18g11080.t1	x	x		x	x	x			x
+Cz03g14230.t1	x			x	x				x
+Cz02g15220.t1	x								
+UNPLg00703.t1	x								
+Cz02g14140.t1	x	x			x				x
+Cz11g20190.t1	x								
+Cz16g13070.t1	x	x	x	x	x	x	x		x
+Cz06g36270.t1	x			x	x	x	x		x
+UNPLg00650.t1	x								
+Cz07g03170.t1	x				x				
+Cz09g13200.t1	x								
+Cz01g46120.t1	x				x				
+Cz16g19120.t1	x			x	x				x
+Cz16g07140.t1	x			x	x				x
+Cz10g26120.t1	x				x				
+Cz14g15070.t1	x	x	x	x	x				x
+Cz08g27140.t1	x								
+Cz11g19140.t1	x			x	x	x			x
+Cz10g06080.t1	x								
+Cz03g10070.t1	x								
+Cz12g25170.t1	x								
+Cz05g21230.t1	x			x					
+Cz08g29240.t1	x								
+Cz04g04050.t1	x			x	x				
+Cz06g15190.t1	x								
+Cz16g08310.t1	x	x		x	x				x
+Cz12g07220.t1	x								
+Cz01g37110.t1	x	x		x	x				x
+Cz14g03080.t1	x								
+UNPLg00288.t1	x			x	x			x	x
+Cz13g11160.t1	x								
+Cz01g16070.t1	x		x	x	x	x	x		x
+Cz09g08080.t1	x								
+Cz07g08190.t1	x								
+Cz01g46080.t1	x								
+Cz18g10180.t1	x								
+Cz01g07200.t1	x								
+Cz06g14190.t1	x								
+Cz02g39090.t1	x								
+Cz11g07070.t1	x								
+Cz10g11150.t1	x				x				
+Cz13g12100.t1	x								
+Cz01g07180.t1	x	x		x	x				x
+Cz12g12230.t1	x								
+Cz01g20200.t1	x								
+Cz01g30130.t1	x				x				
+Cz04g08190.t1	x								
+Cz02g30140.t1	x								
+Cz06g15040.t1	x								
+Cz05g15080.t1	x								
+UNPLg00301.t1	x			x	x			x	x
+Cz17g14040.t1	x				x				x
+Cz15g09230.t1	x								
+Cz08g14070.t1	x								
+Cz14g24170.t1	x				x				
+Cz10g26170.t1	x								
+Cz05g29160.t1	x			x	x	x			x
+Cz04g04160.t1	x								
+Cz10g02250.t1	x	x							x
+Cz09g26060.t1	x								
+Cz13g17170.t1	x								
+Cz16g07340.t1	x								
+Cz12g05150.t1	x				x				
+Cz11g05030.t1	x			x	x	x			x
+Cz14g23250.t1	x								
+Cz04g32070.t1	x								
+Cz16g09270.t1	x								
+Cz07g08160.t1	x			x					x
+Cz04g01140.t1	x	x			x				x
+UNPLg00440.t1	x								
+Cz05g28210.t1	x			x	x				x
+Cz01g34300.t1	x								

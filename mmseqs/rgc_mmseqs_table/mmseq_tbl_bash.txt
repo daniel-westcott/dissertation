@@ -1,0 +1,8 @@
+#ortholang --script RGC-mmseqs-1way1e-10.ol --tmpdir tempeh > mmseqs_tbl_1waye10.txt
+#ortholang --script RGC-mmseqs-1way1e-20.ol --tmpdir tempeh > mmseqs_tbl_1waye20.txt
+#ortholang --script RGC-mmseqs-1way1e-50.ol --tmpdir tempeh > mmseqs_tbl_1waye50.txt
+#ortholang --script RGC-mmseqs-1way1e-100.ol --tmpdir tempeh > mmseqs_tbl_1waye100.txt
+#ortholang --script RGC-mmseqs-1way1e-200.ol --tmpdir tempeh > mmseqs_tbl_1waye200.txt
+ortholang --script RGC-mmseqs_rbh.ol --tmpdir tempeh > mmseqs_tbl_rbh.txt
+#ortholang --script kris_cut-mmseqs.ol --tmpdir tempeh > mmseqs_tbl_krisCut.txt
+ortholang --script RGC-mmseqs-family_specific_eval.ol --tmpdir tempeh > mmseqs_tbl_FS.txt

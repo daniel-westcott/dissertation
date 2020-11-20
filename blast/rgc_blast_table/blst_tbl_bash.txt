@@ -1,0 +1,7 @@
+ortholang --script RGC-blast-1way1e-10.ol --tmpdir tempeh > blast_tbl_1waye10.txt
+ortholang --script RGC-blast-1way1e-20.ol --tmpdir tempeh > blast_tbl_1waye20.txt
+ortholang --script RGC-blast-1way1e-50.ol --tmpdir tempeh > blast_tbl_1waye50.txt
+ortholang --script RGC-blast-1way1e-100.ol --tmpdir tempeh > blast_tbl_1waye100.txt
+ortholang --script RGC-blast-1way1e-200.ol --tmpdir tempeh > blast_tbl_1waye200.txt
+ortholang --script RGC-blast_rbh.ol --tmpdir tempeh > blast_tbl_rbh.txt
+ortholang --script kris_cut-blast.ol --tmpdir tempeh > blast_tbl_krisCut.txt
